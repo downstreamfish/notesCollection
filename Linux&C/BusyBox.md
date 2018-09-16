@@ -108,8 +108,7 @@ BusyBox 使用了符号链接以便使一个可执行程序看起来像很多程
 
 使 用手工配置，我们可以指定在最终的 BusyBox 映像中包含的命令。我们也可以对 BusyBox 环境进行配置，例如包括对 NSA（美国国家安全代理）的安全增强 Linux（SELinux），指定要使用的编译器（用来在嵌入式环境中进行交叉编译）以及 BusyBox 应该静态编译还是动态编译。图 1 给出了 `menuconfig` 的主界面。在这里我们应该可以看到可以为 BusyBox 配置的不同类型的应用程序（applet）。
 
-
-![图 1\. 使用 menuconfig 配置 BusyBox]($res/figure1.jpg)
+![](C:\Users\Administrator\Documents\GitHub\notesCollection\pics\figure1.jpg)
 
 要手工配置 BusyBox，请使用下面的命令：
 

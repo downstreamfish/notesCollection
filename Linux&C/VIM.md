@@ -75,7 +75,7 @@ shift + z + z :保存退出
 | G     | 将光标定位到文件的末尾           |
 
 
-![VIM删除命令](VIM%E5%88%A0%E9%99%A4%E5%91%BD%E4%BB%A4.png)
+![VIM删除命令](../pics/VIM%E5%88%A0%E9%99%A4%E5%91%BD%E4%BB%A4.png)
 
 *
 	+ 数字的奥义
@@ -99,7 +99,7 @@ shift + z + z :保存退出
 	+修改命令
 		- c 命令实现修改：c [数字] motion
 	
-![VIM修改命令](VIM%E4%BF%AE%E6%94%B9%E5%91%BD%E4%BB%A4.png)
+![VIM修改命令](../pics/VIM%E4%BF%AE%E6%94%B9%E5%91%BD%E4%BB%A4.png)
 
 * 第五节：文件信息、跳转和定位括号
 	+ 文件信息 Ctrl + g
