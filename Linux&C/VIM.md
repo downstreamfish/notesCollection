@@ -21,6 +21,9 @@ shift + z + z :保存退出
 
 ***
 ## VIM快速入门
+* Vimrc概述
+    + rc = run command
+    + 分系统级 vimrc 和用户级 vimrc
 * 基本模式
 	+    --普通模式
 	+    --插入模式
