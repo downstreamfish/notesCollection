@@ -17,7 +17,6 @@ Git
     git config --list #查看信息是否写入成功。
     ```
 
-    
 
 
 
