@@ -17,7 +17,10 @@ Git
     git config --list #查看信息是否写入成功。
     ```
 
+* git 中文乱码解决
 
-
+  ```bash
+   git config --global core.quotepath false
+  ```
 
 
